@@ -1,0 +1,14 @@
+{
+    "name": "Erin",
+    "version": "1.0.0",
+    "description": "PowerShell Scripting Assistant",
+    "projectStructure": {
+        "projectsDir": "projects",
+        "contractDir": "contract",
+        "testDir": "test"
+    },
+    "defaultSettings": {
+        "timestampFormat": "yyyy-MM-dd HH:mm:ss",
+        "projectNumberFormat": "000"
+    }
+} 

@@ -1,0 +1,13 @@
+{
+    "settings":  {
+                     "timestampFormat":  "yyyy-MM-dd HH:mm:ss",
+                     "projectNumberFormat":  "000"
+                 },
+    "directories":  {
+                        "projects":  "projects",
+                        "bellaTemplate":  "Bella",
+                        "scripts":  "scripts"
+                    },
+    "version":  "1.0.0",
+    "lastInitialized":  "2025-04-28 20:41:14"
+}
